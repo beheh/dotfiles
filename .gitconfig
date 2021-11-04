@@ -10,5 +10,6 @@
 	compactionHeuristic = true
 [rebase]
 	autosquash = true
+	autostash = true
 [rerere]
 	enabled = true
