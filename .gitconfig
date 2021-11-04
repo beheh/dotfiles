@@ -1,6 +1,7 @@
 [alias]
 	lgo = log
 	ocmmit = commit
+	rebsae = rebase
 	pushf = push --force-with-lease
 [pull]
 	ff = only
