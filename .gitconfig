@@ -1,0 +1,14 @@
+[alias]
+	lgo = log
+	ocmmit = commit
+	pushf = push --force-with-lease
+[pull]
+	ff = only
+[merge]
+	ff = only
+[diff]
+	compactionHeuristic = true
+[rebase]
+	autosquash = true
+[rerere]
+	enabled = true
